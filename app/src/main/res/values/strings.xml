@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ada-Formulario</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="age">Age</string>
+    <string name="cpf">CPF</string>
+    <string name="save">Save</string>
+    <string name="login">Login</string>
+</resources>
